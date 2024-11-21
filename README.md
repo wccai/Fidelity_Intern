@@ -1,2 +1,2 @@
 # Fidelity_Intern
-Fidelity INvestment Intern 2024
+Fidelity Investment Intern 2024
